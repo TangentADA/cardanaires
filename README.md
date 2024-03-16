@@ -2,6 +2,9 @@
 
 This repository contains all the information regarding the Cardanaires NFT holder snapshot, new policy ID, remint, and airdrop details.
 
+## List of Wallets Eligible for Airdrop
+https://github.com/TangentADA/cardanaires/blob/main/airdrop/cardanaires-airdrop.csv
+
 ## Snapshot Reason
 
 The snapshot of Cardanaires NFT holders was taken due to a security incident where Marjan Khodadad Zadeh stole 129 The Cardanaires NFTs that were staked in the Tangent NFT Farm ([Tangent NFT Farm](https://app.tangent.art)). This incident has been publicly acknowledged by Tangent Protocol, and more information can be found on their official Twitter accounts:
